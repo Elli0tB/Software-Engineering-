@@ -3,14 +3,14 @@ import random
 def guessAge():
     guess = random.randint(15,30)
     ansr = input(f"are you {guess} years old? (y/n):")
-   # if ansr != 'n' or 'y':
-   #     print("that is invailid input, lets try again")
-   #     guessAge()
     if ansr == 'n':
         print("RATS!")
         guessAge()
     if ansr == 'y':
         return guess
+    else: 
+        print("that is an invaild input, valid inputs are lowercase y and a lowercase n!")
+        guessAge()
     
     
 def start():
