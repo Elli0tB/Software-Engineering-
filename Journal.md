@@ -1,0 +1,1 @@
+Date: 8.29.2025 - Subject: We coverd how to generate ssh keys, which i have done be for for github it I kinda forgot how it worked so the refresher was nice. I also didnt know that  ssh -T git@github.com was a command that could check your git hub connection status. Also im glad that I use a mac since windows with WSL looks like a pain. 
