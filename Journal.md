@@ -4,4 +4,6 @@ Date 9.5.2025 - Ask good questions get product owners/ people to really say what
 
 Date 9.10.25 - Know the domain you are working in, regardless of how good of a programmer you are if you dont know the doamin it can be challenging to code anything for it. 
 
-date 9.12.25 - talked about branch merging and how to do it, if you have a conflict use git pull --no-rebase so that it pulls down the main branch and you can edit them in your ide to fix the conflict and then you can push, and everyone will need to pull again 
+Date 9.12.25 - talked about branch merging and how to do it, if you have a conflict use git pull --no-rebase so that it pulls down the main branch and you can edit them in your ide to fix the conflict and then you can push, and everyone will need to pull again 
+
+Date 9.15.25 - how to make a new branch "git checkout -b {new_branch_name}" to set new branch as your working branch" git git push --set-upstream origin {branch_name}" to switch between branchs use "git switch {desired_branch}" then you must deleeat an old branch that is no longer in use by "git branch -d {branch_name}"  
