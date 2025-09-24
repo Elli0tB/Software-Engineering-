@@ -7,3 +7,5 @@ Date 9.10.25 - Know the domain you are working in, regardless of how good of a p
 Date 9.12.25 - talked about branch merging and how to do it, if you have a conflict use git pull --no-rebase so that it pulls down the main branch and you can edit them in your ide to fix the conflict and then you can push, and everyone will need to pull again 
 
 Date 9.15.25 - how to make a new branch "git checkout -b {new_branch_name}" to set new branch as your working branch" git git push --set-upstream origin {branch_name}" to switch between branchs use "git switch {desired_branch}" then you must deleeat an old branch that is no longer in use by "git branch -d {branch_name}"  
+
+Date 9.22.25 - Some key things for a impactfull presentation are, Who's the audiance, What are goals, and Design Principles, and  color can be very usefull. some color guides are, Red is for alerts, Yellow(soft) is for highlighting changes, Green is good and familiar things, Gray is out of scope, Blue is for neutral, and orange is for things that are changing. Be consitance with shapes use diffrent shapes for diffent things just make sure the reason for this is obvious and clear.
