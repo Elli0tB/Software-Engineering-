@@ -17,3 +17,7 @@ Date 10.03.25 -Project Management has different processes depending on the perso
     A Kanban Board can be better by keeping simplicity, with three sections: a TODO, in progress, and a Done section where you can put your tasks. It's a simple way to track and you can even color code for measure difficulty.
 
     Also the def of done: is diffrent for each stakeholder form sales, markiting, managemtnet, and others. and there needs to be a set def between these groups. for engineers, the common def is the code compleat, tested, reveiwed(fix issues),and then merge(intergration test)   
+
+Date 10.08.25 - eXtreme programming, is an agile software dev methodology that emphasizing high quality software, and cutomer responsiviness, through simplicity, communication, feedback, courage, and respect. some of the preactics are pair programing, test drivin devolpment, contiunus intergration, frequent releases, and collective code ownership 
+
+Date 10.13.25 - ethics in code, can be a difficult idea. going over the trolly problem is interesting with how subtle changing of a senario can have a large inpact on what people thing what the correct thing to do. 
