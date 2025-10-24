@@ -21,3 +21,11 @@ Date 10.03.25 -Project Management has different processes depending on the perso
 Date 10.08.25 - eXtreme programming, is an agile software dev methodology that emphasizing high quality software, and cutomer responsiviness, through simplicity, communication, feedback, courage, and respect. some of the preactics are pair programing, test drivin devolpment, contiunus intergration, frequent releases, and collective code ownership 
 
 Date 10.13.25 - ethics in code, can be a difficult idea. going over the trolly problem is interesting with how subtle changing of a senario can have a large inpact on what people thing what the correct thing to do. 
+
+Date 10.20.25 - what is software quality, does what it says, easy to use, secure, predictable, presetent. How can you improve the quality of your software? Testing, planning architecture, refactoring, foucus on subsytems. Our tests are limited by our understanding on the software. Basicly software we write and tests for that software will not be very usefull since its our own tests against our owwn code which means it could have the same inherint flaws. 
+
+    python has something called a test harness called pytest and you can use it to test code 
+
+    Quality is built from the ground up and is the responsibility of the developer. 
+    to ensure quality a solid regimen of rigouris testing must occur. 
+    your never going to be 100% positive
