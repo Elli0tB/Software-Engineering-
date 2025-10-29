@@ -29,3 +29,15 @@ Date 10.20.25 - what is software quality, does what it says, easy to use, secure
     Quality is built from the ground up and is the responsibility of the developer. 
     to ensure quality a solid regimen of rigouris testing must occur. 
     your never going to be 100% positive
+
+Date 10.27.25 - Refactoring was made to help with Maintainability, Reusability, Preformance, and Cost Reduction. I am also the scrum master for this week 
+    projects at week start: 
+        Cameron    - add the tables to supabase 
+        Dayne      - API 
+        Elliot(me) - Importing Supabase to replace the tiny db in the handelers and db files 
+        Emma       - UI and pages 
+        Suzzanne   - db intergration 
+
+    
+    
+Date 10.29.25 - Try to keep code reusable. do this by minimizing set up code and making it into its own function. the most inportant reason of re-usabillity in refactoring is becasue it allows others to work on other projects since clean and resuable code frees up so much dev time. Effciency and preformance is valuble, but most fo the time it isnt noticable, BUT code that runs all the time or massive wait times it cen be in your intrest to optimize it. last there is cost reduction
