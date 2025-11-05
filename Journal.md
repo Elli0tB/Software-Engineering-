@@ -41,3 +41,5 @@ Date 10.27.25 - Refactoring was made to help with Maintainability, Reusability, 
     
     
 Date 10.29.25 - Try to keep code reusable. do this by minimizing set up code and making it into its own function. the most inportant reason of re-usabillity in refactoring is becasue it allows others to work on other projects since clean and resuable code frees up so much dev time. Effciency and preformance is valuble, but most fo the time it isnt noticable, BUT code that runs all the time or massive wait times it cen be in your intrest to optimize it. last there is cost reduction
+
+Date 11.03.25 - there are a lot of steps in deploying software. it often goes from you to dev enviroment to QA testing to User acceptence tests then to users. and even if you get a promblem on one part of the cycle you do NOT jsut fix it and send it back to where it was. You start over and keep the cycle intact. 
