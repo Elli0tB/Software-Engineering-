@@ -44,4 +44,6 @@ Date 10.29.25 - Try to keep code reusable. do this by minimizing set up code and
 
 Date 11.03.25 - there are a lot of steps in deploying software. it often goes from you to dev enviroment to QA testing to User acceptence tests then to users. and even if you get a promblem on one part of the cycle you do NOT jsut fix it and send it back to where it was. You start over and keep the cycle intact. 
 
-Date 11.07.25 - we talked about coverage and lint and they can be used for helping see how much code is being used for your unit tests and lint can be used to help clean up code and you can just pip install {lint or coverage}
+Date 11.07.25 - We talked about coverage and lint and they can be used for helping see how much code is being used for your unit tests and lint can be used to help clean up code and you can just pip install {lint or coverage}
+
+Date 11.10.25 - there are two main ways to scale an application. Verticaly, which is by adding more power to a server, Horizontaily, which is adding more servers to increase the hardware. There is also cloud scalability, which can offer elasticity by adding or subracting servers.  
