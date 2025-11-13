@@ -47,3 +47,5 @@ Date 11.03.25 - there are a lot of steps in deploying software. it often goes fr
 Date 11.07.25 - We talked about coverage and lint and they can be used for helping see how much code is being used for your unit tests and lint can be used to help clean up code and you can just pip install {lint or coverage}
 
 Date 11.10.25 - there are two main ways to scale an application. Verticaly, which is by adding more power to a server, Horizontaily, which is adding more servers to increase the hardware. There is also cloud scalability, which can offer elasticity by adding or subracting servers.  
+
+date 11.12.25 - today is about deploying the docker in AWS there is a file from canvas that has the detials. which is stored in the UT class files on the desktop 
